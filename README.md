@@ -1,1 +1,1 @@
-# container def for  Spark Play Ground
+This is simple container base Apache Spark playground
